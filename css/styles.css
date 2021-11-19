@@ -1,0 +1,73 @@
+background-size: cover;
+margin: -8px;
+font-size: 15px;
+}
+.top_section #welcome_section #mouse_img{
+align-self: center;
+}
+#welcome_section > img{
+padding-bottom: 20px;
+}
+#welcome_section > p{
+margin-top: -10px;
+}
+.top_section #aboutus_section{
+text-align: center;
+font-size: 15px;
+padding-bottom: 40px;
+padding-top: 40px;
+}
+.services_section{
+text-align: center;
+font-size: 15px;
+color: white;
+background: url('/home/kenny/moringaprojects/delani_studio/images/s_image.jpg');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100vw;
+height: 60vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+
+.what_we_do_section {
+display: flex;
+text-align: center;
+flex-direction: column;
+font-size: 18px;
+
+}
+
+.what_we_do_section > h2{
+padding-right: 0px;
+}
+
+#product_management_img, #development_img, #design_img {
+display: none;
+}
+
+.what_we_do_items{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+text-align: center;
+padding-right: 50px;
+padding-left: 50px;
+}
+
+.design{
+flex: 1;
+}
+
+.development{
+flex: 1;
+}
+
+.product_management{
+flex: 1;
+}
