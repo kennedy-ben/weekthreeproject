@@ -79,6 +79,7 @@ h1,h2,h3,p{
   align-self: center;
     padding-right: 50px;
     padding-left: 50px;
+    list-style-image: url(img/design_icon.png);
 }
 
 .development {
@@ -148,7 +149,7 @@ h1,h2,h3,p{
     text-align: center;
 }
 
-seen 
+seen
   and (min-width: 360px) 
   and (max-width: 640px) {
     .what_we_do_items{
