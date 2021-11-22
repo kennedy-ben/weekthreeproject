@@ -149,7 +149,7 @@ h1,h2,h3,p{
     text-align: center;
 }
 
-seen
+/* seen
   and (min-width: 360px) 
   and (max-width: 640px) {
     .what_we_do_items{
@@ -181,7 +181,7 @@ seen
         font-size: 18px;
     }
 }
-
+ */
 
 .contact_us_section{
     background: url("/img/black.jpg");
@@ -254,3 +254,4 @@ footer{
 }
 footer p{
     margin-top: 10px;
+}
