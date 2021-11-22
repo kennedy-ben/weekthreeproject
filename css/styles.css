@@ -79,7 +79,7 @@ h1,h2,h3,p{
   align-self: center;
     padding-right: 50px;
     padding-left: 50px;
-    list-style-image: url(img/design_icon.png);
+    list-style-image: url("/img/design_icon.png");
 }
 
 .development {
