@@ -34,7 +34,7 @@ h1,h2,h3,p{
   text-align: center;
   font-size: 15px;
   color: white;
-  background: url('/img/keyboard.jpg');
+  background: url('../img/keyboard.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -79,7 +79,7 @@ h1,h2,h3,p{
   align-self: center;
     padding-right: 50px;
     padding-left: 50px;
-    list-style-image: url("/img/design_icon.png");
+    list-style-image: url("../img/design_icon.png");
 }
 
 .development {
@@ -184,7 +184,7 @@ h1,h2,h3,p{
  */
 
 .contact_us_section{
-    background: url("/img/black.jpg");
+    background: url("../img/black.jpg");
     background-repeat: no-repeat;
     overflow: hidden;
     resize: both;
